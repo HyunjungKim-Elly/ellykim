@@ -5,7 +5,7 @@ sections:
   template: heroblock
   section_id: hero
   component: hero_block.html
-  content: ''
+  content: I'm a junior developer, love programming!
   title: ''
   actions: []
 - type: contentblock
