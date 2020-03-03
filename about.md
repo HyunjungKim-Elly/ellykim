@@ -1,7 +1,7 @@
 ---
 title: About Me
 subtitle: This is a short page about me and my work.
-img_path: images/about.jpg
+img_path: "/images/me.jpeg"
 layout: page
 menu:
   main:
@@ -9,12 +9,16 @@ menu:
     weight: 2
 
 ---
-**John Doe** is a Senior Art Director from [Stockholm](https://en.wikipedia.org/wiki/Stockholm), Sweden. After graduating from The College of Visual Arts with a degree in Communication Design, he worked for three small graphic design shops where he honed his design style and sensibility.
+**Elly** is a Junior Developer from South Korea. graduated from The College of Computer Programmer with a Diploma in School of Software Design & Data Science, I worked as a web designer for three years in beauty&healthy industry, and designed web contents, detail page and landing page for advertisement.
 
-His work has been recognized by Communication Arts, Print, How, ID, IdN, AIGA, Effie, Archive, Graphis, AdFed and Rockport. Graphic Design USA named him a person to watch in 2019.
+> 
 
->The world always seems brighter when you’ve just made something that wasn’t there before. <cite>Neil Gaiman</cite>
+Programming?
 
-As a hobby, John Doe authors the most influential design blog in Sweden with over 100,000 page views a month. He lives in Stockholm with his beautiful wife and two boys.
+From an early age, I was so interested in building web site. 
 
-*Thank You for reading!*
+> The world always seems brighter when you’ve just made something that wasn’t there before. <cite>Neil Gaiman</cite>
+
+Hobby?
+
+_Thank You for reading!_
