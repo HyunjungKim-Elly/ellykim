@@ -5,9 +5,7 @@ sections:
   template: heroblock
   section_id: hero
   component: hero_block.html
-  content: I was working as a web designer for three years and transferred my job
-    to be a developer. I graduated Computer Programmer course from Seneca College,
-    and have studied C, C++, Java and Web development skills.
+  content: ''
   title: ''
   actions: []
 - type: contentblock
