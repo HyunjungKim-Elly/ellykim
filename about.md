@@ -17,7 +17,7 @@ Programming?
 
 From an early age, I was so interested in building web site. 
 
-> The world always seems brighter when you’ve just made something that wasn’t there before. <cite>Neil Gaiman</cite>
+> 
 
 Hobby?
 
