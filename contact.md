@@ -1,6 +1,8 @@
 ---
 title: Contact
 layout: contact
+subtitle: Don't hesitate to contact me:)
+img_path: ''
 menu:
   main:
     weight: 4
