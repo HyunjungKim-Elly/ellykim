@@ -15,13 +15,12 @@ sections:
   title: About
   section_id: about
   actions:
-  - label: Contact Me
-    url: "/contact"
+  - label: About Me
+    url: "/about"
   component: content_block.html
-  content: This is the "about" excerpt. It can be used to provide a paragraph about
-    yourself that people can read on the homepage to get a sense of who you are. There
-    also exists a dedicated about page where you can write more about yourself for
-    those who are interested.
+  content: I was working as a web designer for three years and transferred my job
+    to be a developer. I graduated Computer Programmer course from Seneca College,
+    and have studied C, C++, Java and Web development skills.
   image: ''
 - type: postsblock
   template: postsblock
