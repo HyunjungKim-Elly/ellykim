@@ -3,7 +3,7 @@ title: Elly's Page
 baseurl: "/"
 permalink: "/:title/"
 layout_style: overflow
-palette: green
+palette: violet
 header:
   title: Elly Kim
   tagline: Junior Developer
