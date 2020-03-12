@@ -3,7 +3,10 @@ title: HR Management web app
 date: 2019-03-27
 thumb_img_path: "/images/bbs-1.jpg"
 content_img_path: ''
-excerpt: ''
+excerpt: HR Management web app that can create user accounts and display, upload images
+  and display the list of employees and departments which are registered. The server
+  is executed by node.js and the user data is connected to MongoDB, and Heroku Postgres
+  is used to create the data model of employees
 layout: post
 subtitle: ''
 canonical_url: ''
