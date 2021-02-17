@@ -9,9 +9,9 @@ subtitle: ''
 canonical_url: ''
 
 ---
-Mazinga App
+Mazinga iOS App
 
-Mazinga is a web-service that provides information about massage shops around us. There are many different kinds of massage shops information, user can search the menu of massage, location and number of shops to immediately call them to book. I built the iOS application of Mazinga that is able to download from the Appstore. 
+Mazinga is a web-service that provides information about massage shops around us. There are many different kinds of massage shops information, user can search the menu of massage, location and number of shops to immediately call them to book. I built the iOS application of Mazinga that is able to download from the AppStore, it is based on WebView of Swift, the function that works in the website is functionally built in the XCode to works well with the web view. 
 
 Link: https://mazinga.kr
 
