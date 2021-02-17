@@ -1,4 +1,13 @@
 ---
 label: DAON
 hide_body: true
-fields: []
+fields:
+- name: da-on
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: DA-ON
