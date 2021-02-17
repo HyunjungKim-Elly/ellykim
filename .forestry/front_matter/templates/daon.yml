@@ -15,5 +15,3 @@ fields:
   type: image_gallery
   config: {}
   label: images
-pages:
-- _posts/2021-02-17-DA-ON React Web page.md
