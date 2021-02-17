@@ -1,0 +1,7 @@
+---
+label: da-on
+hide_body: true
+fields:
+- type: image_gallery
+  name: da-on
+  label: da-on
