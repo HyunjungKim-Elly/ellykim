@@ -1,6 +1,11 @@
 ---
 label: DA-ON react web-app
 hide_body: true
-fields: []
+fields:
+- name: da-on
+  type: image_gallery
+  config: {}
+  label: DA-ON
+  description: da-on
 pages:
 - _posts/DA-ON React Web page.md
