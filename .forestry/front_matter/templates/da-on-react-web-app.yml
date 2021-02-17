@@ -2,3 +2,5 @@
 label: DA-ON react web-app
 hide_body: true
 fields: []
+pages:
+- _posts/DA-ON React Web page.md
