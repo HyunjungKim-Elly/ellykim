@@ -2,7 +2,7 @@
 label: DAON
 hide_body: true
 fields:
-- name: da-on
+- name: textarea
   type: textarea
   default: ''
   config:
@@ -10,6 +10,10 @@ fields:
     wysiwyg: false
     schema:
       format: markdown
-  label: DA-ON
+  label: textarea
+- name: images
+  type: image_gallery
+  config: {}
+  label: images
 pages:
 - _posts/DA-ON React Web page.md
