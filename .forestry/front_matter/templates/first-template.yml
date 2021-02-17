@@ -26,3 +26,5 @@ fields:
 - type: text
   name: canonical_url
   label: canonical_url
+pages:
+- _posts/da-on-react-web-app.md
