@@ -1,5 +1,5 @@
 ---
-title: HR Management web app
+title: Node.js HR Management web app
 date: 2019-03-27
 thumb_img_path: "/images/bbs-1.jpg"
 content_img_path: ''
