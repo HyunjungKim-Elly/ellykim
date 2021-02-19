@@ -9,7 +9,6 @@ subtitle: ''
 canonical_url: ''
 
 ---
-DA-On react web app
+da-on react web app
 
-  
 I built the company DA-ON website based on React. This is a very simple web-app that consists of five-pages with 15 components.
